@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\models\\conceretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\models\\conceretes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\views\\product\\productbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\views\\product\\productbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\views\\product\\allproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\views\\product\\allproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|c:\\users\\user\\downloads\\asp.net-product-managment-main\\asp.net-product-managment-main\\asp.net product managment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E56C012-C838-4DBF-A93A-0F0B81D19CE8}|ASP.NET Product Managment\\ASP.NET Product Managment.csproj|solutionrelative:asp.net product managment\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ASP.NET Product Managment\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwEYAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:54:07.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ASP.NET Product Managment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA3wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:30:29.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Program.cs",
+              "RelativeToolTip": "ASP.NET Product Managment\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:29:59.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ASP.NET Product Managment\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-30T18:59:32.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ASP.NET Product Managment\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T15:08:44.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AllProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\Product\\AllProducts.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Views\\Product\\AllProducts.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\Product\\AllProducts.cshtml",
+              "RelativeToolTip": "ASP.NET Product Managment\\Views\\Product\\AllProducts.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T15:07:07.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Models\\Conceretes\\Product.cs",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Models\\Conceretes\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Models\\Conceretes\\Product.cs",
+              "RelativeToolTip": "ASP.NET Product Managment\\Models\\Conceretes\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T14:56:35.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ASP.NET Product Managment\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-29T15:08:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ASP.NET Product Managment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T18:59:36.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductById.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\Product\\ProductById.cshtml",
+              "RelativeDocumentMoniker": "ASP.NET Product Managment\\Views\\Product\\ProductById.cshtml",
+              "ToolTip": "C:\\Users\\User\\Downloads\\ASP.NET-Product-Managment-main\\ASP.NET-Product-Managment-main\\ASP.NET Product Managment\\Views\\Product\\ProductById.cshtml",
+              "RelativeToolTip": "ASP.NET Product Managment\\Views\\Product\\ProductById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T20:11:31.543Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
